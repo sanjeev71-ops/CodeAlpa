@@ -1,6 +1,3 @@
 # CodeAlpa
 
-Some small projects I'm working on.
-
-- `chatbot/` — a FAQ chatbot (NLTK + TF-IDF + Streamlit)
-- `ai-music-generation/` — still in progress
+A FAQ chatbot I built in Python (NLTK + TF-IDF + Streamlit). See `chatbot/README.md` for setup and details.
