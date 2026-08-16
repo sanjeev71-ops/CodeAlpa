@@ -1,4 +1,4 @@
-# FAQ Chatbot
+# Chatbot for FAQS
 
 A simple FAQ chatbot I built in Python. It cleans up the question using NLTK,
 converts the FAQs into TF-IDF vectors, and picks the closest one with cosine
